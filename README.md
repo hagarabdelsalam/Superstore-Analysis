@@ -9,6 +9,7 @@ Contact: hagarabdelsalam64@gmail.com
 
 Objectives
 The project aims to answer the following key questions:
+
 What is the overall sales trend?
 Which are the top 10 products by sales?
 Which are the most selling products (by quantity)?
@@ -99,10 +100,11 @@ Real-Time Data: Integrate live data feeds for up-to-date insights.
 Customer Segmentation: Deepen analysis of customer segments to tailor marketing strategies.
 Cost Analysis: Further investigate unprofitable sub-categories (e.g., Tables) for pricing or supplier adjustments.
 
-Contact :
+Contact 
 Email: hagarabdelsalam64@gmail.com
 Phone: +201110434578
 LinkedIn: www.linkedin.com/in/hagar-abd-el-salam-863a98259
 
 Acknowledgments :
-This project leverages open-source tools (pandas, matplotlib, seaborn) and Power BI for comprehensive data analysis and visualization. Special thanks to the Superstore dataset providers for enabling this analysis.
+This project leverages open-source tools (pandas, matplotlib, seaborn) and Power BI for comprehensive data analysis and visualization.
+
