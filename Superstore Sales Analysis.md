@@ -20,8 +20,8 @@ The project addresses the following key questions:
 💰 Which categories and sub-categories are the most profitable?
 
 
-🛠️ Tools and Technologies
 
+🛠️ Tools and Technologies
 The analysis leverages the following tools:
 
 Python 🐍
@@ -30,38 +30,28 @@ Libraries: pandas, matplotlib, seaborn
 Power BI 📊
 Purpose: Data modeling, DAX measures, and interactive dashboards.
 Techniques: Star schema modeling, DAX metrics (e.g., Profit Growth, Sales Growth %, AOV, Customer LTV)
+
+
 📂 Project Structure
 The project is organized into two core components:
-
 1. Python Analysis 🐍
+
 Data Cleaning & Audit 🧹
+
 Validates dataset structure, checks for missing values, and generates descriptive statistics.
+
 Exploratory Data Analysis (EDA) 🔍
-Sales trends (2011–2014)
-Top 10 products by sales
-Most sold products by quantity
-Preferred shipping modes
-Profitability by category and sub-category
+
 Key Performance Indicators (KPIs) 📏
-Total Sales 💸
-Total Orders 📋
-Unique Customers 👥
-Total Profit 📈
-Average Order Value (AOV) 🛒
-Average Profit Margin 📊
-Top 5 Products by Quantity 🥇
-Sales by Region 🌍
-Average Shipping Time ⏱️
-Discount Impact 🎁
+
+2. Power BI Analysis 📊
+🗂️ Data Modeling : Built a star schema linking a central Orders fact table to dimension tables (Returns, Date).
+
+⚙️ DAX Measures : Metrics like Profit Growth, Sales Growth %, AOV, Customer LTV, and Total Shipping Cost.
+
+📈 Visualizations :Interactive dashboards showcasing sales trends, regional performance, and customer insights.
 
 
-3. Power BI Analysis 📊
-Data Modeling 🗂️
-Built a star schema linking a central Orders fact table to dimension tables (Returns, Date).
-DAX Measures ⚙️
-Metrics like Profit Growth, Sales Growth %, AOV, Customer LTV, and Total Shipping Cost.
-Visualizations 📈
-Interactive dashboards showcasing sales trends, regional performance, and customer insights.
 
 🔑 Key Findings 
 
@@ -102,9 +92,10 @@ Growth Opportunity: 51.54% sales growth supports targeted marketing and upsellin
 Inventory Focus: Reduce low-profit Furniture and prioritize Technology products like Canon imageCLASS.
 Regional Plan: Expand in high-growth areas and balance shipping costs with profitability.
 
-📊 Dataset
-The dataset covers Superstore’s sales, orders, and customer data, including:
 
+
+📊 Dataset 
+The dataset covers Superstore’s sales, orders, and customer data, including:
 Product Details: Name, category, sub-category
 Financial Metrics: Sales, profit
 Order Info: Shipping modes, order dates
