@@ -61,31 +61,45 @@ Metrics like Profit Growth, Sales Growth %, AOV, Customer LTV, and Total Shippin
 Visualizations 📈
 Interactive dashboards showcasing sales trends, regional performance, and customer insights.
 
-🔑 Key Findings
-📈 Sales Trends
+🔑 Key Findings 
+
+📈 Sales Trends :
 Growth: Sales grew significantly from 2011 to 2014, with seasonal peaks (e.g., holidays).
 Volatility: Sharp spikes and dips suggest promotional events or market influences.
+
+
 🏆 Top Products by Sales
 Smartphones Lead: 6 of the top 10 products are smartphones, with Apple Smart Phone, Full Size at $86,935.78.
 Other Stars: Copiers and executive leather armchairs perform strongly.
+
+
 📦 Most Sold Products (by Quantity)
 Top Item: Staples (876 units), followed by index tabs and file carts.
 Focus Area: Office supplies (filing, writing tools, fasteners) show high demand.
+
+
 🚚 Shipping Preferences
 Standard Class Rules: Used in ~30,000 orders, reflecting a preference for cost-effective delivery.
 Faster Options Lag: Same Day and First Class are less popular, possibly due to cost.
+
+
 💰 Profitability
 Top Category: Technology, with Copiers ($258,567.55) and Phones ($216,717.01) leading.
 Loss Leader: Furniture - Tables (-$64,083.39), indicating a need for cost optimization.
 Recommendation: Expand Technology and optimize low-margin Office Supplies.
+
+
 👥 Customer Behavior
 High-Profit Regions: North America and Europe (e.g., England, California).
 Corporate Strength: Strong performance in key states.
 Shipping Strategy: Promote First Class for high-value customers and reduce costs in profitable regions.
+
+
 💡 Business Insights
 Growth Opportunity: 51.54% sales growth supports targeted marketing and upselling to boost AOV ($504.99).
 Inventory Focus: Reduce low-profit Furniture and prioritize Technology products like Canon imageCLASS.
 Regional Plan: Expand in high-growth areas and balance shipping costs with profitability.
+
 📊 Dataset
 The dataset covers Superstore’s sales, orders, and customer data, including:
 
@@ -110,7 +124,7 @@ Hagar Abdelsalam
 
 📱 Phone: +201110434578
 
-🔗 LinkedIn: Hagar Abdelsalam
+🔗 LinkedIn: www.linkedin.com/in/hagar-abd-el-salam-863a98259
 
 🙏 Acknowledgments
 This project leverages open-source tools (pandas, matplotlib, seaborn) and Power BI for robust analysis and visualization. Thanks to the Superstore dataset providers for enabling this study.
