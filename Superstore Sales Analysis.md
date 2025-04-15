@@ -3,23 +3,24 @@
 🌟 Overview
 A Deep Dive into Superstore Sales, Profit, and Customer Behavior is a comprehensive analysis of Superstore, a retail supermarket chain offering groceries, household items, electronics, and personal care products. This project uncovers sales trends, product performance, customer behavior, and profitability to drive actionable business insights.
 
-Prepared by: Hagar Abdelsalam
 
-📧 Email: hagarabdelsalam64@gmail.com
-
-📱 Phone: +201110434578
-
-🔗 LinkedIn: Hagar Abdelsalam
 
 🎯 Objectives
 The project addresses the following key questions:
 
+
 📈 What is the overall sales trend?
+
 🏆 Which are the top 10 products by sales?
+
 📦 Which products sell the most (by quantity)?
+
 🚚 What is the most preferred shipping mode?
+
 💰 Which categories and sub-categories are the most profitable?
+
 🛠️ Tools and Technologies
+
 The analysis leverages the following tools:
 
 Python 🐍
