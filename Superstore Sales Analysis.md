@@ -19,6 +19,7 @@ The project addresses the following key questions:
 
 💰 Which categories and sub-categories are the most profitable?
 
+
 🛠️ Tools and Technologies
 
 The analysis leverages the following tools:
