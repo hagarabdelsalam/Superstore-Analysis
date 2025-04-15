@@ -6,6 +6,7 @@ A Deep Dive into Superstore Sales, Profit, and Customer Behavior is a comprehens
 
 
 🎯 Objectives
+
 The project addresses the following key questions:
 
 
@@ -21,6 +22,7 @@ The project addresses the following key questions:
 
 
 
+
 🛠️ Tools and Technologies
 The analysis leverages the following tools:
 
@@ -30,6 +32,7 @@ Libraries: pandas, matplotlib, seaborn
 Power BI 📊
 Purpose: Data modeling, DAX measures, and interactive dashboards.
 Techniques: Star schema modeling, DAX metrics (e.g., Profit Growth, Sales Growth %, AOV, Customer LTV)
+
 
 
 📂 Project Structure
@@ -50,6 +53,7 @@ Key Performance Indicators (KPIs) 📏
 ⚙️ DAX Measures : Metrics like Profit Growth, Sales Growth %, AOV, Customer LTV, and Total Shipping Cost.
 
 📈 Visualizations :Interactive dashboards showcasing sales trends, regional performance, and customer insights.
+
 
 
 
