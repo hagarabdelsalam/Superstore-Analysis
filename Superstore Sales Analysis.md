@@ -1,4 +1,5 @@
 📊 Superstore Sales Analysis
+
 🌟 Overview
 A Deep Dive into Superstore Sales, Profit, and Customer Behavior is a comprehensive analysis of Superstore, a retail supermarket chain offering groceries, household items, electronics, and personal care products. This project uncovers sales trends, product performance, customer behavior, and profitability to drive actionable business insights.
 
